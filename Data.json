@@ -1,0 +1,36 @@
+{
+    "totalTasks": 4,
+    "wipeTime": 3,
+    "inactiveTasks": [],
+    "tasks": {
+        "1": [
+            "Striver's SDE sheet",
+            0.0,
+            0.0,
+            []
+        ],
+        "2": [
+            "Django project with Mosh",
+            0.0,
+            0.0,
+            []
+        ],
+        "3": [
+            "Kaggle - Data Science",
+            0.0,
+            0.0,
+            []
+        ],
+        "4": [
+            "Personal project",
+            17.7,
+            0.75,
+            [
+                [
+                    1662618194.58106,
+                    0.75
+                ]
+            ]
+        ]
+    }
+}
